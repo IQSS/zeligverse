@@ -1,0 +1,22 @@
+Package: zeligverse
+Type: Package
+Title: Easily install, load, and test Zelig packages
+Version: 0.1.0
+Authors@R: c(
+    person("Christopher", "Gandrud", email = "zelig.zee@gmail.com",
+    role = c("aut", "cre"))
+    )
+Description: Provides an easy way to load Core Zelig and ancillary Zelig 
+    packages. It also includes functionality to run all of the Zelig packages' 
+    tests.
+License: GPL (>=3)
+Encoding: UTF-8
+Imports:
+    dplyr,
+    purrr,
+    tibble,
+    Zelig,
+    ZeligChoice,
+    ZeligEI
+LazyData: true
+RoxygenNote: 6.0.1
