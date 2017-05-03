@@ -4,11 +4,10 @@
 \name{zeligverse-package}
 \alias{zeligverse}
 \alias{zeligverse-package}
-\title{zeligverse: Easily install, load, and test Zelig packages}
+\title{zeligverse: Easily install and load stable Zelig packages}
 \description{
-Provides an easy way to load Core Zelig and ancillary Zelig
-packages. It also includes functionality to run all of the Zelig packages'
-tests.
+Provides an easy way to load stable Core Zelig and ancillary Zelig
+packages.
 }
 \seealso{
 Useful links:
