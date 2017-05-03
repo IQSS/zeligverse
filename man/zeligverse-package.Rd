@@ -10,6 +10,13 @@ Provides an easy way to load Core Zelig and ancillary Zelig
 packages. It also includes functionality to run all of the Zelig packages'
 tests.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/IQSS/zeligverse}
+}
+
+}
 \author{
 \strong{Maintainer}: Christopher Gandrud \email{zelig.zee@gmail.com}
 

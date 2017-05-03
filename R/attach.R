@@ -30,6 +30,7 @@ zeligverse_attach <- function() {
     invisible()
 }
 
+#' @importFrom rstudioapi getVersion isAvailable
 #' @source tidyverse
 #' @keywords internal
 

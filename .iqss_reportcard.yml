@@ -1,0 +1,34 @@
+# Created by IQSSdevtools (0.0.0.9000). Do not edit by hand. 
+
+ Documentation:
+  readme: yes
+  roxygen: no
+  news: yes
+  bugreports: no
+  vignettes: no
+  website:
+    openscholar: no
+    pkgdown_website: no
+License:
+  gpl3_license: yes
+Version_Control:
+  git: yes
+  github: yes
+Testing:
+  uses_testthat: yes
+  uses_travis: yes
+  uses_appveyor: yes
+  build_check:
+    build_check_completed: yes
+    no_check_warnings: yes
+    no_check_errors: yes
+    no_check_notes: yes
+  test_coverage: 49
+Background:
+  package_name: zeligverse
+  package_version: 0.1.0
+  package_language: R
+  package_commit_sha: 2df15d62647df283513bdf5dbb8c7a8de9201037
+  iqss_bestpractices_version: 0.0.0.9000
+  iqssdevtools_version: 0.0.0.9000
+  check_time: 2017-05-03 14:38:10

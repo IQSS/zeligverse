@@ -18,6 +18,21 @@ This package makes it convenient to install and load all of the stable Zelig pac
 Use
 ===
 
+To use zeligverse, simply load the library:
+
+``` r
+library(zeligverse)
+```
+
+    ## + Zelig       5.1.0.90000        Date: 2017-05-03
+    ## + ZeligChoice 0.9.5                 R: 3.4.0
+    ## + ZeligEI     0.1.1                OS: macOS Sierra 10.12.4
+    ##                                   GUI: unknown
+    ##                                Locale: en_GB.UTF-8
+    ##                                    TZ: America/Los_Angeles
+
+As you can see, all of the stable Zelig packages are loaded.
+
 Inspiration
 ===========
 

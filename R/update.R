@@ -57,7 +57,7 @@ zeligverse_update <- function(recursive = FALSE) {
 #' @export
 
 zeligverse_deps <- function(recursive = FALSE) {
-    pkgs <- utils::available.packages()
+    pkgs <- available.packages()
     deps <- tools::package_dependencies("zeligverse", pkgs,
                                         recursive = recursive)
 

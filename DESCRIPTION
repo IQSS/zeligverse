@@ -2,6 +2,7 @@ Package: zeligverse
 Type: Package
 Title: Easily install, load, and test Zelig packages
 Version: 0.1.0
+Date: 2017-05-03
 Authors@R: c(
     person("Christopher", "Gandrud", email = "zelig.zee@gmail.com",
     role = c("aut", "cre"))
@@ -12,11 +13,16 @@ Description: Provides an easy way to load Core Zelig and ancillary Zelig
 License: GPL (>=3)
 Encoding: UTF-8
 Imports:
+    devtools,
     dplyr,
     purrr,
+    rstudioapi,
     tibble,
     Zelig,
     ZeligChoice,
     ZeligEI
+URL: https://github.com/IQSS/zeligverse
+bugreports: https://github.com/IQSS/zeligverse/issues
 LazyData: true
 RoxygenNote: 6.0.1
+Suggests: testthat
