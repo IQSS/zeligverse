@@ -33,7 +33,7 @@ packages. This includes:
 
 # Use
 
-To use **zeligverse**, simply load the library:
+To use **zeligverse**, simply load the package:
 
 ```{r}
 library(zeligverse)
@@ -45,5 +45,5 @@ Installing **zeligverse** will install these packages.
 
 # Inspiration
 
-The inspiration (and much of the underlying code) for zeligverse comes from the 
+The inspiration (and much of the underlying code) for **zeligverse** comes from the 
 [tidyverse](http://tidyverse.org/) package.
