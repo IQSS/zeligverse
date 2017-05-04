@@ -13,6 +13,7 @@ packages.
 Useful links:
 \itemize{
   \item \url{https://github.com/IQSS/zeligverse}
+  \item Report bugs at \url{https://github.com/IQSS/zeligverse/issues}
 }
 
 }

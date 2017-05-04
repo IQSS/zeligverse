@@ -15,21 +15,21 @@ knitr::opts_chunk$set(
 
 [![zelig-logo](man/figures/zelig.png)](http://zeligproject.org)
 
-[![Project Status: WIP - Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](http://www.repostatus.org/badges/latest/wip.svg)](http://www.repostatus.org/#wip)
+[![Project Status: Active - The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/zeligverse)](https://cran.r-project.org/package=zeligverse)
 [![Travis-CI Build Status](https://travis-ci.org/IQSS/zeligverse.svg?branch=master)](https://travis-ci.org/IQSS/zeligverse)
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/IQSS/zeligverse?branch=master&svg=true)](https://ci.appveyor.com/project/IQSS/zeligverse)
 
 # About
 
-This package makes it convenient to install and load all of the stable Zelig 
+This package makes it convenient to install and load all of the stable Zelig
 packages. This includes:
 
--   Zelig
+-   [Zelig](https://github.com/IQSS/Zelig)
 
--   ZeligChoice
+-   [ZeligChoice](https://github.com/IQSS/ZeligChoice)
 
--   ZeligEI
+-   [ZeligEI](https://github.com/IQSS/ZeligEI)
 
 # Use
 
@@ -45,5 +45,5 @@ Installing **zeligverse** will install these packages.
 
 # Inspiration
 
-The inspiration (and much of the underlying code) for **zeligverse** comes from the 
+The inspiration (and much of the underlying code) for **zeligverse** comes from the
 [tidyverse](http://tidyverse.org/) package.
