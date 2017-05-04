@@ -20,7 +20,7 @@ Imports:
     ZeligChoice,
     ZeligEI
 URL: https://github.com/IQSS/zeligverse
-bugreports: https://github.com/IQSS/zeligverse/issues
+BugReports: https://github.com/IQSS/zeligverse/issues
 LazyData: true
 RoxygenNote: 6.0.1
 Suggests: testthat
