@@ -31,6 +31,12 @@ packages. This includes:
 
 -   [ZeligEI](https://github.com/IQSS/ZeligEI)
 
+-   [Amelia](https://gking.harvard.edu/amelia)
+
+-   [MatchIt](https://gking.harvard.edu/matchit)
+
+-   [WhatIf](https://gking.harvard.edu/whatif)
+
 # Use
 
 To use **zeligverse**, simply load the package:
@@ -42,6 +48,14 @@ library(zeligverse)
 As you can see, all of the stable Zelig packages are loaded.
 
 Installing **zeligverse** will install these packages.
+
+# Adding packages [for developers]
+
+**zeligverse** developers can add packages to **zeligverse** by:
+
+-    adding the package name to the *DESCRIPTION* `Imports`
+
+-    adding the package name to the `core` object in *attach.R*
 
 # Inspiration
 

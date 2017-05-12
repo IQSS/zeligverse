@@ -1,21 +1,24 @@
 Package: zeligverse
 Type: Package
-Title: Easily install and load stable Zelig packages
-Version: 0.1.0
-Date: 2017-05-04
+Title: Easily Install and Load Stable Zelig Packages
+Version: 0.1.1
+Date: 2017-05-12
 Authors@R: c(
     person("Christopher", "Gandrud", email = "zelig.zee@gmail.com",
     role = c("aut", "cre"))
     )
-Description: Provides an easy way to load stable Core Zelig and ancillary Zelig 
-    packages. 
+Description: Provides an easy way to load stable Core Zelig and ancillary Zelig
+    packages.
 License: GPL (>=3)
 Encoding: UTF-8
 Imports:
+    Amelia,
     dplyr,
+    MatchIt,
     purrr,
     rstudioapi,
     tibble,
+    WhatIf,
     Zelig,
     ZeligChoice,
     ZeligEI

@@ -2,7 +2,8 @@
 #' @source tidyverse
 #' @keywords internal
 
-core <- c('Zelig', 'ZeligChoice', 'ZeligEI')
+## Add zeligverse modules here and in the DESCRIPTION Imports ##
+core <- c('Zelig', 'ZeligChoice', 'ZeligEI', 'Amelia', 'MatchIt', 'WhatIf')
 
 zeligverse_attach <- function() {
     versions <- vapply(core, function(x) as.character(utils::packageVersion(x)),
