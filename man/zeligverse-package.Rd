@@ -4,7 +4,7 @@
 \name{zeligverse-package}
 \alias{zeligverse}
 \alias{zeligverse-package}
-\title{zeligverse: Easily install and load stable Zelig packages}
+\title{zeligverse: Install and Load Stable Zelig Packages}
 \description{
 Provides an easy way to load stable Core Zelig and ancillary Zelig
 packages.
