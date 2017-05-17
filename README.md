@@ -30,12 +30,12 @@ To use **zeligverse**, simply load the package:
 library(zeligverse)
 ```
 
-    ## + Zelig       5.1.2        Date: 2017-05-12
-    ## + ZeligChoice 0.9.5           R: 3.4.0
-    ## + ZeligEI     0.1.1          OS: macOS Sierra 10.12.4
-    ## + Amelia      1.7.4         GUI: unknown
-    ## + MatchIt     3.0.1      Locale: en_US.UTF-8
-    ## + WhatIf      1.5.8          TZ: America/New_York
+    ## + Zelig       5.1.1.90000        Date: 2017-05-17
+    ## + ZeligChoice 0.9.5.90000           R: 3.4.0
+    ## + ZeligEI     0.1.1                OS: macOS Sierra 10.12.5
+    ## + Amelia      1.7.4               GUI: unknown
+    ## + MatchIt     3.0.1            Locale: en_US.UTF-8
+    ## + WhatIf      1.5.8                TZ: America/New_York
 
 As you can see, all of the stable Zelig packages are loaded.
 

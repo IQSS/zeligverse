@@ -1,6 +1,6 @@
 # zeligverse 0.1.1
 
-*   Amelia, MatchIt, and WhatIf added.
+*   Added Amelia, MatchIt, and WhatIf packages.
 
 # zeligverse 0.1.0
 
